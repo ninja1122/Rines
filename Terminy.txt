@@ -1,0 +1,54 @@
+Asia:
+	Do maja:
+		Modele NPC ( Ubrania, w³osy )
+		2D
+		Tekstury(Wioska, Pod³oga w krypcie,)
+	Do konkursu:
+		Cinematyki
+		Projekt koszulek,Wizytówki, Marketing(Czerwiec)
+	Do zg³oszenia:
+		Filmiki/screeny
+
+Artur:
+	Do maja:
+		Landscape (zatrute drzewo)
+		Modele (dokoñczyæ krypte, wioska[wincej roœlinek], kopalnia, most na prze³êcz)
+		Animacje (NPC)
+		Dokoñczyæ wode
+	Do konkursu:
+		Grafika i jej poprawa
+	Do zg³oszenia:
+		Filmiki/screeny
+
+Maciek:
+	Do maja:
+		Widgety( ;_; , œmierci)
+		Czêœciowo zadania
+	Do konkursu:
+		Zapis/wczytanie
+		Grywalnoœæ
+
+¯agiel:
+	Do maja:
+		NPC (o¿ywienie gry)
+		Ambient
+	Do konkursu:
+		Zadania
+
+Damian:
+	Do maja:
+		Walka (grywalna)
+		Importowanie i AI wrogów (grywalna)
+		Gadaj¹ce NPC
+		Particle
+		Prze³¹czyæ zmienn¹ odpowiadaj¹c¹ za giniêcie 
+		Œmieræ postaci (ragdoll)
+	Do konkursu:
+		Pogoda
+
+Wszyscy:
+	Do maja:
+		Poprawki fabu³y
+	Do konkursu:
+		Nagranie animacji
+		Nagranie dialogów

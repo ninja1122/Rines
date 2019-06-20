@@ -1,0 +1,10 @@
+A)Nieśmiertelna Klątwa: (Maciek NPCId = 0)
+	0:Rozmowa z Maćkiem
+	1:Ciąg dalszy
+	
+B)Pieczeń z kraba:	(Karczmarz NPCid = 1)
+	0:Rozmowa z karczmarzem
+	1:Zabij kraby, powrót z mięsem
+	2:Znajdź miód, powrót z miodem
+	3:Zbierz drewno, powrót z drewnem
+	4:Wsiądź do łódki

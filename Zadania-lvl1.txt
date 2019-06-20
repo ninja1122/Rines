@@ -1,0 +1,48 @@
+﻿1)Nieśmiertelna Klątwa: (Maciek NPCId = 0)		//Ciąg dalszy
+	...
+	2:Rozmowa z Karczmarzem, dostanie paczki dla Maćka
+	3:Przekazanie Maćkowi paczki
+	
+2)Otworzyć Bramę:
+	0:Rozmowa z Sołtysem
+	1:Zdobądź zaufanie mieszkańców, porozmawiaj z Sołtysem
+	2:Zabij potwora
+	3:Wróć do Sołtysa
+
+3)Hiena Cmentarna:
+	0:Rozmowa z Antonim
+	1:Idź do krypty
+	2:Rozmowa z dziadkiem - opcja 1 - Brak pierscienia, wiemy o synu/ojcu Antoniego (ale nam nie zaufał)	
+	3:Rozmowa z dziadkiem - opcja 2 - Mamy pierscien, wiemy o synu/ojcu Antoniego (dostaliśmy pierscien aby oddać synowi)	
+	4:Rozmowa z dziadkiem - opcja 3 - Mamy pierścień, nie wiemy o synie/ojcu Antoniego	
+	5:Rozmowa z dziadkiem - opcja 4 - Nie mamy pierścienia,  nie wiemy o synie/ojcu Antoniego	
+	6:Rozmowa z dziadkiem - opcja 4 -Mamy pierścień,  nie wiemy o synie/ojcu Antoniego
+	91: Antoni: Zadowolony - nie mamy pierscienia
+	92: Antoni: Neutralny - zachowujemy pierścień
+	93: Antoni: Neutralny - nie mamy pierscienia
+	94: Antoni: Zły - zachowujemy pierścień
+	95: Antoni: Zły - nie mamy pierscienia
+	96: Antoni: Bradzo Zły - zachowujemy pierścień
+	97: Antoni: Bradzo Zły - nie mamy pierscienia
+	
+	99:Rozmowa z Sołtysem
+	
+3B)Pierścień Ojca
+	0:Zatrzymanie pierścienia dziadka Antoniego
+	1:Oddaj pierścień synowi dziadka Antoniego
+	
+4)Rolnik szuka rzepy:
+	0:Rozmowa z Rolnikiem
+	1:Zdierz 10 rzep, wróć kiedy będziesz je miał
+	90:Nie mam teraz czasu
+	
+5)Zadanie od Zielarza:
+	0:Rozmowa z Zielarzem
+	1:Zdierz lecznicze zioło, wróć kiedy będziesz je miał
+	90:Nie mam teraz czasu
+	
+6)Zadanie na Pumy:
+	0:Rozmowa z Mysliwy
+	1:Zabij stado pum
+	2:Wróć do Sołtysa
+	90:Nie mam teraz czasu

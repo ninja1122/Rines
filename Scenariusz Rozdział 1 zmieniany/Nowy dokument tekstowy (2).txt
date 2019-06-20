@@ -1,0 +1,213 @@
+Rozmowa z So³tysem
+
+
+- Witaj.
+- Czego chcesz?! Nie lubiê obcych w mojej wsi, zje¿d¿aj st¹d, zaw¿dy wzywam mylicje wiejsk¹.
+- Spokojnie, nie zostanê tu d³ugo, chcê siê tylko dostaæ do miasta.
+- Do miasta mówisz, nie uda ci siê, brama jest zawarta. Wpuszczaj¹ tylko ludzi, którzy maj¹ glejd.
+- A co siê sta³o?
+- Z powodu zamieszek jakie ostatnio tu panuj¹, banda chopów, jeden z drugim dosta³a ceg³ówk¹ po ³bach i wymyœlili jakieœ bzdury, kaza³em ich wygnaæ  z naszej wioski, jeœli ty te¿ planujesz jakieœ awantury, zastanów siê lepiej dwa razy. Drugim powodem jest bestyja, co straszy od niedawna. Ludzi zabija, porz¹dnych ludzi! 
+
+
+- Da siê jakoœ omin¹æ stra¿ników?
+- Opowiedz mi o tej wiosce.
+- Czy jest coœ ciekawego w okolicy?
+- To wszystko, do widzenia
+
+
+
+- Da siê jakoœ omin¹æ stra¿ników?
+- Aby przejœæ przez bramê musisz pokazaæ glejt stra¿nikom. Ale ja ci nie dam. Jest jeszcze inna droga za mury, ale nie bêdê mówi³ o naszych œcie¿kach byle pierwszej lepszej w³óczêdze.
+
+- Dobra, co mam zrobiæ? (MO¯LIWOŒÆ 1)
+- Gadaj albo… (MO¯LIWOŒÆ 2)
+
+
+
+MO¯LIWOŒÆ 1
+
+- Dobra, co mam zrobiæ?
+- M¹dra z ciebie dziewka. Ale co ty mo¿esz?
+- Ca³kiem du¿o, nawet rzepa mi nie straszna.
+- Rzepa, rzep¹, ale nie ucieknie. Jest pewna sprawa, a ludzi brakuje. Ale gadaæ ci nie bêdê, boœ obca.
+- Wiêc co mam zrobiæ, ¿ebyœ mi zaufa³?
+- Przekonaj do siebie miejscowych, to przekonasz i mnie.
+- Jak mam to zrobiæ, wszyscy w wiosce trzymaj¹ siê ode mnie z daleka i nie spotka³am nikogo, kto chcia³by ze mn¹ rozmawiaæ.
+- To nie jest przeszkoda, powiedz, ¿e ja ciê przysy³am, zacznij od Antoniego.
+- Dobrze, zobaczê co da siê zrobiæ.
+
+
+
+MO¯LIWOŒÆ 2
+
+- Gadaj albo…
+- A bo co? Spróbuj tylko podnieœæ na mnie rêkê, a mylicja bez wahania spoli cie na stosie za te czory. Przys³uga za przys³ugê, tak to tu jest.
+- Dobra, co mam zrobiæ?
+- M¹dra z ciebie dziewka. Ale co ty mo¿esz?
+- Ca³kiem du¿o, nawet rzepa mi nie straszna.
+- Rzepa, rzep¹, ale nie ucieknie. Jest pewna sprawa, a ludzi brakuje. Ale gadaæ ci nie bêdê, boœ obca.
+- Wiêc co mam zrobiæ, ¿ebyœ mi zaufa³?
+- Powiedzia³bym radŸ sobie sama, ale zaznaj mojej ³aski. Przekonaj do siebie miejscowych, to przekonasz i mnie.
+- Jak mam to zrobiæ, wszyscy w wiosce trzymaj¹ siê ode mnie z daleka i nie spotka³am nikogo, kto chcia³by ze mn¹ rozmawiaæ.
+
+
+
+
+- Opowiedz mi o tej wiosce.
+- Zwana jest wiosk¹ Nawrotów. Wiela nas tu nie ma, a i wioska nie ogromna i bogata, ale radzim sobie. Klucz to dyscyplina i nie zadawanie siê z ka¿do nowo przyby³ym w³óczêgom. Raz tu przyloz taki co chop¹ mówi³, ¿e magia Nasza z³a, a te debile uwierzy³y! To ¿em psami poszczu³. 
+
+
+
+- A jest tu coœ ciekawego?
+- Maryna mieszka z boku, ale pewno nie o to ci chodzi³o. Jest jezioro, las, ³¹ki, pola i Maryna. Stara kopalnia, jest ju¿ zamkniêta z dziesiêæ lat. Cmentarz z krypt¹, gdzie le¿y parê znanych, zimnych i szanownych ludzi z okolicy.
+
+
+
+
+- To wszystko, do widzenia.
+- ¯egnam.
+Koniec Rozmowy
+
+
+
+
+
+- Czeœæ i chwa³a Si’diredowi. Czego chcesz?
+
+- I co mówi¹ o mnie ludzie w wiosce?
+- Opowiedz mi o tej wiosce.
+- Czy jest coœ ciekawego w okolicy?
+- To wszystko, do widzenia
+[Zapêtlone do koñca wykonywania zadania]
+
+
+Gdy nie wykonamy jeszcze ¿adnego zadania
+- I co mówi¹ o mnie ludzie w wiosce?
+- Uwa¿asz mnie za idiotê? Pomó¿ najpierw komuœ, a nie przy³aŸ z nadziej¹, ¿e nie wiem co dzieje siê w mojej wiosce.
+
+
+Zadowolony (Antoni)
+- I co mówi¹ o mnie ludzie w wiosce?
+- Antoni chodzi zadowolony, ponoæ dobrze siê spisa³aœ.
+
+
+NEUTRALNY (Antoni)
+- I co mówi¹ o mnie ludzie w wiosce?
+- Antoni nic ciekawego o tobie nie gada.
+
+
+Z³y (Antoni)
+- I co mówi¹ o mnie ludzie w wiosce?
+- Antoni nie by³ zachwycony, mówi³ ¿e go oszuka³aœ, nie wiem jak jest naprawdê, ale nie mówi to o tobie za dobrze.
+
+
+Bardzo Z£Y (Antoni)
+- I co mówi¹ o mnie ludzie w wiosce?
+- Powiedzieæ, ¿e Antoni ciê nie polubi³, to jak powiedzieæ, ¿e lawa to taka ciep³a woda. Wyklina³ ciê od z³odziei i k³amców. Nie mieszam siê w takie sprawy, ale uwa¿aj bo gdy wróci do miasta mo¿e siê na tobie zemœciæ.
+
+
+
+Po wykonaniu zadania u rolnika
+- (Rolnik) jest ci wdziêczny za pomoc
+
+Po wykonaniu u Zielarza
+- (Zielarz) mówi, ¿e znasz siê na zio³ach i pomog³aœ mu z naparem leczniczym
+
+Po wykonaniu u Jakiegoœ Ch³opa
+- (Ktoœ) mówi, ¿e pomog³aœ wiosce z pozbyciem siê atakuj¹cych nas dzikich zwierz¹t
+
+
+
+
+
+Po wykonaniu za ma³ej iloœci zadañ
+- Niestety to jeszcze za ma³o, bym móg³ ci powierzyæ zadanie jak¿e wa¿ne dla mnie i mojej wioski
+
+
+Po wykonaniu odpowiedniej iloœci zadañ
+- Ludzie w wiosce o tobie dobrze mówi¹, myœlê, ¿e mogê ci zaufaæ.
+
+
+
+
+- Co mam zrobiæ, ¿eby dostaæ siê do miasta?
+- Opowiedz mi o tej wiosce.
+- Czy jest coœ ciekawego w okolicy?
+- To wszystko, do widzenia
+
+
+
+
+
+
+
+
+- Co mam zrobiæ, ¿eby dostaæ siê do miasta?
+- Pamiêtasz o potworze, to dobrze. Nie wiem czy s³ysza³aœ od chopów, albo od tego przyb³êdy Jero, ¿e potwór to mutant magii u¿yŸniaj¹cej uprawy. Bujda, jedno jest pewne, potwór istnieje, i trzeba siê nim zaj¹æ. Z powodu wojny miasto ma nas w rzyci.
+- Mam wiêc sama zabiæ potwora?
+- Dasz radê, a gdybyœ dowiedzia³a siê sk¹d pojawia siê ta bestia, sypn¹³bym z³otem. 
+- Dobrze, zabijê potwora, poznam jego historiê.
+- Cieszy mnie to. Kopalnie znajdziesz kieruj¹c siê na zachód od wioski, jeœli jeszcze twoje wêdrowcze zapêdy ciê tam nie zaprowadzi³y. Poœpiesz siê.
+
+
+
+
+- Jeœli chodzi o potwora z kopalni.
+- Opowiedz mi o tej wiosce.
+- Czy jest coœ ciekawego w okolicy?
+- To wszystko, do widzenia
+
+
+
+
+- Jeœli chodzi o potwora z kopalni.
+- Tak?
+- Nie ¿yje, zosta³ pogrzebany pod stert¹ kamieni.
+- To dobrze, szczerze nie sadzi³em ¿e ci siê uda. Widzê, ¿e bardzo zale¿y ci na dostaniu siê do miasta. Powiedz mi, wiesz jak siê tu pojawi³?
+
+
+
+Gdy znaleŸliœmy list przy zw³okach
+- Tak, zosta³ przyzwany przez grupê protestuj¹cych na rozkaz Jero. O to dowód (oddajemy list).
+- Wiedzia³em, ¿e ten heretyk macza³ w tym palce. Daj mi ten list. Moja milycja wiejska siê nim zajmie, póki brama nie zostanie otwarta. WeŸ to z³oto za pomoc.
+- A co z dostaniem siê do miasta?
+- Pamiêtam, nie bój siê, jestem s³ownym cz³owiekiem. Nie mam glejtu, ale znam inn¹ drogê. Prowadzi przez jaskinie, na wschód st¹d. Tunele s¹ d³ugie i zawi³e, jak w³osy Maryny, ale jest to jedyna droga.
+
+Gdy nie znaleŸliœmy listu przy zw³okach
+- Nie, niestety nie uda³o mi siê.
+- No có¿, trudno przynajmniej bestyja ubita, ju¿ nie bêdzie straszyæ. Ale ¿em jest s³owny cz³ek. Nie mam glejtu, ale znam inn¹ drogê. Prowadzi przez jaskinie, na wschód st¹d. Tunele s¹ d³ugie i zawi³e, jak w³osy Maryny, ale jest to jedyna droga.
+
+
+[I koniec wypowiedzi niezale¿nie od znalezienia zw³ok]
+- Dziêkujê za pomoc.
+- Tak¿e dziêkuje w imieniu moim, jak i mieszkañców wioski Nawrotów za pomoc z besti¹.
+- Dobra z ciebie dziewczyna, bywaj.
+
+
+
+
+- Jak dostaæ siê do zamku?
+- Opowiedz mi o tej wiosce.
+- Czy jest coœ ciekawego w okolicy?
+- To wszystko, do widzenia
+
+
+
+- Jak dostaæ siê do zamku?
+-  Ma³o znane przejœcie prowadzi przez jaskinie, która znajduje siê na zachód st¹d. Tunele s¹ d³ugie i zawi³e, ale jest to alternatywne przejœcie za mury.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

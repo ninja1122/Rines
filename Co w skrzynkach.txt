@@ -1,0 +1,32 @@
+Karczmarz:
+teleport
+3 jabko leczy se
+bela materialu do sprzedania
+
+Skrzynia za eksploracje I:
+1 skóra
+miêso z kraba mo¿na zjeœæ (na 1szym levelu nie da siê zjeœæ (haha nowy bool))
+drewniana ³y¿ka
+
+Skrzynia za eksploracje II:
+bela materia³u
+drewniana ³y¿ka
+
+Rybak:
+Miêso z kraba
+Miód
+
+So³tys:
+Materia³
+5 jab³ek
+2 z³ota
+
+Zielarka:
+Aloes
+Miód
+2 potiony
+
+Rolnik:
+drewniana ³y¿ka x2
+miêso z kraba
+

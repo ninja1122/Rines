@@ -1,0 +1,383 @@
+---,NPC_ID,Conversation_ID,Line_ID,SubLine_ID,TargetLine_ID,Camera_ID,Monologue
+1,5,0,1,0,0,0,"Nie zawracaj mi głowy, nie widzisz że jestem zajęty"
+2,5,0,2,0,0,1,Kim jesteś?
+3,5,0,3,0,0,0,Jestem Jero protestant.
+4,5,0,4,0,0,1,Chyba protestujący
+5,5,0,5,0,0,0,No… przecie mówię. Te głupie ludzie ze wsi niszczą ziemie jakąś magią zamiast zdać się na naturę.
+6,5,0,6,0,0,1,Nie mieszkasz w wiosce?
+7,5,0,7,0,0,0,"Mieszkam… ale ja nie stąd. Mieszkałem w wiosce Gawronów, na północ stąd. Ale mnie wyrzucili..."
+8,5,0,8,0,0,1,Dlaczego?
+9,5,0,9,0,0,0,"A bo te durne chłopy nie wiedzą, że zatruwają środowisko, to mówię im jakie to skutki yyy… no ten…"
+10,5,0,10,0,0,0,"w sensie do czego to doprowadzi, to zaczęli mnie obrzucać kamieniami i wygonili z domu."
+11,5,0,11,0,0,0,"Tu na szczęści kilka mądrych się znalazło. No to ich ten… nauczam, no…"
+12,5,0,12,0,0,1,Nauczasz?
+13,5,0,13,0,0,0,"No taa, chcesz się trochę no ten… doksz, do…"
+14,5,0,14,0,0,1,Dokształcić?
+15,5,0,15,0,0,0,"No, mówię przecie."
+16,5,0,16,0,0,0,
+17,5,0,16,1,17,0,Powiedz mi o tej szkodliwej magii.
+18,5,0,16,2,38,0,O co chodzi z tą bestią?
+19,5,0,16,3,29,0,Opowiedz mi o okolicy
+20,5,0,16,4,33,0,Wiesz jak dostać się do miasta?
+21,5,0,16,5,45,0,Musze iść.
+22,5,0,17,0,0,1,Powiedz mi o tej szkodliwej magii.
+23,5,0,18,0,0,0,"Bo to wszystko przez gwałtowną modyfikacje organiczną, no wiesz… GMO."
+24,5,0,19,0,0,0,"agia używana do użyźnienia gleby i przyspieszenia wzrostu plonów, może i wygląda efektownie i działa efektywnie,"
+25,5,0,20,0,0,0,ale prowadzi do długotrwałych uszkodzeń roślin na poziomie molekularnym.
+26,5,0,21,0,0,0,Zwierzęta i my spożywając te rośliny możemy nie odczuć od razu ich skutków.
+27,5,0,22,0,0,0,"Ale tak zmodyfikowane rośliny wpływają na nasze zdrowie i geny, które mogą mutować. Co spowoduje nieuleczalną chorobę i śmierć."
+28,5,0,23,0,0,1,Rozumiem… a powiedz skąd to wiesz?
+29,5,0,24,0,0,0,"No ten, no, czytałem o tym."
+30,5,0,25,0,0,1,Czytałeś?
+31,5,0,26,0,0,0,"Znaczy czytał mi o tym jeden taki mag, pomagałem mu, prowadził jakiś eksperymenta."
+32,5,0,27,0,0,0,"zęsto mówił sam do siebie, to go ten, no słuchałem. Jak to mag, to uczony, jak czytał i zapisywał to znaczy, że mądry."
+33,5,0,28,0,16,1,Pewnie tak...
+34,5,0,29,0,0,1,Opowiedz mi o okolicy
+35,5,0,30,0,0,0,Jak dla mnie dużo ciekawych rzeczy tu nie ma.
+36,5,0,31,0,0,0,"Oprócz wioski do której nie mam od jakiegoś czasu wstępu, to no ten… jest opuszczona kopalnia na wschodzie,"
+37,5,0,32,0,16,0,"a na zachodzie jakiś cmentarz, ale nie radzę okradać grobów, pełno tam duchów… nie żebym próbował, ale tak tylko słyszałem."
+38,5,0,33,0,0,1,Wiesz jak dostać się do miasta?
+39,5,0,34,0,0,0,"Nie… ale nie radzę próbować przebiec przez główną bramę, strażnicy są szybcy… i mocno biją…a w mieście to dopiero miałbym posłuch…."
+40,5,0,35,0,0,0,"Tam ludzie są mądrzejsi, na pewno by zrozumieli szkodliwość magii używanej do uprawy."
+41,5,0,36,0,0,1,Dziękuję za radę.
+42,5,0,37,0,16,0,"Jak będziesz miała zbyteczny glejt, albo znajdziesz jakąś dziurę w murze to daj mi znać."
+43,5,0,38,0,0,1,O co chodzi z tą bestią?
+44,5,0,39,0,0,0,"Jak to co? Bestia, która leże ma w kopalni na zachodzie i zabija ludzi. Jest stworzona z magii GMO."
+45,5,0,40,0,0,1,W jaki sposób?
+46,5,0,41,0,0,0,"No ten… yyy… nie wiem, ale skutki działania magii takie rzeczy robią, tu powiększą nasiona kukurydzy,"
+47,5,0,42,0,0,0,"tu powiększą zajęca, a i inne zwierzę, które mieszkało w jaskini mogło zmienić."
+48,5,0,43,0,0,1,Zająca? Nie widziałam tu przerośniętych królików.
+49,5,0,44,0,16,0,"Bo to rzadkie, ale się dzieje, gwałtowna modyfikacja organiczna jest zła, tylko naturalne uprawy są dobre."
+50,5,0,45,0,0,1,Musze iść.
+51,5,0,46,0,-1,0,"Pamiętaj, GMO jest złe, zniszczy cię."
+52,5,0,47,0,16,0,Czego chce? 
+53,5,1,2,0,0,0,
+54,5,1,2,1,3,0,Powiedz mi o tej szkodliwej magii.
+55,5,1,2,2,24,0,O co chodzi z tą bestią?
+56,5,1,2,3,15,0,Opowiedz mi o okolicy
+57,5,1,2,4,19,0,Wiesz jak dostać się do miasta?
+58,5,1,2,5,31,0,Musze iść.
+59,5,1,3,0,0,1,Powiedz mi o tej szkodliwej magii.
+60,5,1,4,0,0,0,"Bo to wszystko przez gwałtowną modyfikacje organiczną, no wiesz… GMO."
+61,5,1,5,0,0,0,"Magia używana do użyźnienia gleby i przyspieszenia wzrostu plonów, może i wygląda efektownie i działa efektywnie,"
+62,5,1,6,0,0,0,ale prowadzi do długotrwałych uszkodzeń roślin na poziomie molekularnym.
+63,5,1,7,0,0,0,Zwierzęta i my spożywając te rośliny możemy nie odczuć od razu ich skutków.
+64,5,1,8,0,0,0,"Ale tak zmodyfikowane rośliny wpływają na nasze zdrowie i geny, które mogą mutować. Co spowoduje nieuleczalną chorobę i śmierć."
+65,5,1,9,0,0,1,Rozumiem… a powiedz skąd to wiesz?
+66,5,1,10,0,0,0,"No ten, no, czytałem o tym."
+67,5,1,11,0,0,1,Czytałeś?
+68,5,1,12,0,0,0,"Znaczy czytał mi o tym jeden taki mag, pomagałem mu, prowadził jakiś eksperymenta."
+69,5,1,13,0,0,0,"Często mówił sam do siebie, to go ten, no słuchałem. Jak to mag, to uczony, jak czytał i zapisywał to znaczy, że mądry."
+70,5,1,14,0,2,1,Pewnie tak...
+71,5,1,15,0,0,1,Opowiedz mi o okolicy
+72,5,1,16,0,0,0,Jak dla mnie dużo ciekawych rzeczy tu nie ma.
+73,5,1,17,0,0,0,"Oprócz wioski do której nie mam od jakiegoś czasu wstępu, to no ten… jest opuszczona kopalnia na wschodzie,"
+74,5,1,18,0,2,0,"a na zachodzie jakiś cmentarz, ale nie radzę okradać grobów, pełno tam duchów… nie żebym próbował, ale tak tylko słyszałem."
+75,5,1,19,0,0,1,Wiesz jak dostać się do miasta?
+76,5,1,20,0,0,0,"Nie… ale nie radzę próbować przebiec przez główną bramę, strażnicy są szybcy… i mocno biją…a w mieście to dopiero miałbym posłuch…."
+77,5,1,21,0,0,0,"Tam ludzie są mądrzejsi, na pewno by zrozumieli szkodliwość magii używanej do uprawy."
+78,5,1,22,0,0,1,Dziękuję za radę.
+79,5,1,23,0,2,0,"Jak będziesz miała zbyteczny glejt, albo znajdziesz jakąś dziurę w murze to daj mi znać."
+80,5,1,24,0,0,1,O co chodzi z tą bestią?
+81,5,1,25,0,0,0,"Jak to co? Bestia, która leże ma w kopalni na zachodzie i zabija ludzi. Jest stworzona z magii GMO."
+82,5,1,26,0,0,1,W jaki sposób?
+83,5,1,27,0,0,0,"No ten… yyy… nie wiem, ale skutki działania magii takie rzeczy robią, tu powiększą nasiona kukurydzy,"
+84,5,1,28,0,0,0,"tu powiększą zajęca, a i inne zwierzę, które mieszkało w jaskini mogło zmienić."
+85,5,1,29,0,0,1,Zająca? Nie widziałam tu przerośniętych królików.
+86,5,1,30,0,2,0,"Bo to rzadkie, ale się dzieje, gwałtowna modyfikacja organiczna jest zła, tylko naturalne uprawy są dobre."
+87,5,1,31,0,0,1,Musze iść.
+88,5,1,32,0,-1,0,"Pamiętaj, GMO jest złe, zniszczy cię."
+89,,,,,,,
+90,,,,,,,
+91,,,,,,,
+92,,,,,,,
+93,,,,,,,
+94,,,,,,,
+95,,,,,,,
+96,,,,,,,
+97,,,,,,,
+98,,,,,,,
+99,,,,,,,
+100,,,,,,,
+101,,,,,,,
+102,,,,,,,
+103,,,,,,,
+104,,,,,,,
+105,,,,,,,
+106,,,,,,,
+107,,,,,,,
+108,,,,,,,
+109,,,,,,,
+110,,,,,,,
+111,,,,,,,
+112,,,,,,,
+113,,,,,,,
+114,,,,,,,
+115,,,,,,,
+116,,,,,,,
+117,,,,,,,
+118,,,,,,,
+119,,,,,,,
+120,,,,,,,
+121,,,,,,,
+122,,,,,,,
+123,,,,,,,
+124,,,,,,,
+125,,,,,,,
+126,,,,,,,
+127,,,,,,,
+128,,,,,,,
+129,,,,,,,
+130,,,,,,,
+131,,,,,,,
+132,,,,,,,
+133,,,,,,,
+134,,,,,,,
+135,,,,,,,
+136,,,,,,,
+137,,,,,,,
+138,,,,,,,
+139,,,,,,,
+140,,,,,,,
+141,,,,,,,
+142,,,,,,,
+143,,,,,,,
+144,,,,,,,
+145,,,,,,,
+146,,,,,,,
+147,,,,,,,
+148,,,,,,,
+149,,,,,,,
+150,,,,,,,
+151,,,,,,,
+152,,,,,,,
+153,,,,,,,
+154,,,,,,,
+155,,,,,,,
+156,,,,,,,
+157,,,,,,,
+158,,,,,,,
+159,,,,,,,
+160,,,,,,,
+161,,,,,,,
+162,,,,,,,
+163,,,,,,,
+164,,,,,,,
+165,,,,,,,
+166,,,,,,,
+167,,,,,,,
+168,,,,,,,
+169,,,,,,,
+170,,,,,,,
+171,,,,,,,
+172,,,,,,,
+173,,,,,,,
+174,,,,,,,
+175,,,,,,,
+176,,,,,,,
+177,,,,,,,
+178,,,,,,,
+179,,,,,,,
+180,,,,,,,
+181,,,,,,,
+182,,,,,,,
+183,,,,,,,
+184,,,,,,,
+185,,,,,,,
+186,,,,,,,
+187,,,,,,,
+188,,,,,,,
+189,,,,,,,
+190,,,,,,,
+191,,,,,,,
+192,,,,,,,
+193,,,,,,,
+194,,,,,,,
+195,,,,,,,
+196,,,,,,,
+197,,,,,,,
+198,,,,,,,
+199,,,,,,,
+200,,,,,,,
+201,,,,,,,
+202,,,,,,,
+203,,,,,,,
+204,,,,,,,
+205,,,,,,,
+206,,,,,,,
+207,,,,,,,
+208,,,,,,,
+209,,,,,,,
+210,,,,,,,
+211,,,,,,,
+212,,,,,,,
+213,,,,,,,
+214,,,,,,,
+215,,,,,,,
+216,,,,,,,
+217,,,,,,,
+218,,,,,,,
+219,,,,,,,
+220,,,,,,,
+221,,,,,,,
+222,,,,,,,
+223,,,,,,,
+224,,,,,,,
+225,,,,,,,
+226,,,,,,,
+227,,,,,,,
+228,,,,,,,
+229,,,,,,,
+230,,,,,,,
+231,,,,,,,
+232,,,,,,,
+233,,,,,,,
+234,,,,,,,
+235,,,,,,,
+236,,,,,,,
+237,,,,,,,
+238,,,,,,,
+239,,,,,,,
+240,,,,,,,
+241,,,,,,,
+242,,,,,,,
+243,,,,,,,
+244,,,,,,,
+245,,,,,,,
+246,,,,,,,
+247,,,,,,,
+248,,,,,,,
+249,,,,,,,
+250,,,,,,,
+251,,,,,,,
+252,,,,,,,
+253,,,,,,,
+254,,,,,,,
+255,,,,,,,
+256,,,,,,,
+257,,,,,,,
+258,,,,,,,
+259,,,,,,,
+260,,,,,,,
+261,,,,,,,
+262,,,,,,,
+263,,,,,,,
+264,,,,,,,
+265,,,,,,,
+266,,,,,,,
+267,,,,,,,
+268,,,,,,,
+269,,,,,,,
+270,,,,,,,
+271,,,,,,,
+272,,,,,,,
+273,,,,,,,
+274,,,,,,,
+275,,,,,,,
+276,,,,,,,
+277,,,,,,,
+278,,,,,,,
+279,,,,,,,
+280,,,,,,,
+281,,,,,,,
+282,,,,,,,
+283,,,,,,,
+284,,,,,,,
+285,,,,,,,
+286,,,,,,,
+287,,,,,,,
+288,,,,,,,
+289,,,,,,,
+290,,,,,,,
+291,,,,,,,
+292,,,,,,,
+293,,,,,,,
+294,,,,,,,
+295,,,,,,,
+296,,,,,,,
+297,,,,,,,
+298,,,,,,,
+299,,,,,,,
+300,,,,,,,
+301,,,,,,,
+302,,,,,,,
+303,,,,,,,
+304,,,,,,,
+305,,,,,,,
+306,,,,,,,
+307,,,,,,,
+308,,,,,,,
+309,,,,,,,
+310,,,,,,,
+311,,,,,,,
+312,,,,,,,
+313,,,,,,,
+314,,,,,,,
+315,,,,,,,
+316,,,,,,,
+317,,,,,,,
+318,,,,,,,
+319,,,,,,,
+320,,,,,,,
+321,,,,,,,
+322,,,,,,,
+323,,,,,,,
+324,,,,,,,
+325,,,,,,,
+326,,,,,,,
+327,,,,,,,
+328,,,,,,,
+329,,,,,,,
+330,,,,,,,
+331,,,,,,,
+332,,,,,,,
+333,,,,,,,
+334,,,,,,,
+335,,,,,,,
+336,,,,,,,
+337,,,,,,,
+338,,,,,,,
+339,,,,,,,
+340,,,,,,,
+341,,,,,,,
+342,,,,,,,
+343,,,,,,,
+344,,,,,,,
+345,,,,,,,
+346,,,,,,,
+347,,,,,,,
+348,,,,,,,
+349,,,,,,,
+350,,,,,,,
+351,,,,,,,
+352,,,,,,,
+353,,,,,,,
+354,,,,,,,
+355,,,,,,,
+356,,,,,,,
+357,,,,,,,
+358,,,,,,,
+359,,,,,,,
+360,,,,,,,
+361,,,,,,,
+362,,,,,,,
+363,,,,,,,
+364,,,,,,,
+365,,,,,,,
+366,,,,,,,
+367,,,,,,,
+368,,,,,,,
+369,,,,,,,
+370,,,,,,,
+371,,,,,,,
+372,,,,,,,
+373,,,,,,,
+374,,,,,,,
+375,,,,,,,
+376,,,,,,,
+377,,,,,,,
+378,,,,,,,
+379,,,,,,,
+380,,,,,,,
+381,,,,,,,
+382,,,,,,,

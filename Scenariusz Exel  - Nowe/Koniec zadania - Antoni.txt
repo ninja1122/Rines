@@ -1,0 +1,29 @@
+2	6		Bardzo Z£Y	Koniec zadania
+2	12		NEUTRALNY	Koniec zadania
+2	16		Z³y		Koniec zadania
+2	20		NEUTRALNY	Koniec zadania
+
+3	6		Zadowolony	Koniec zadania
+3	11		Bardzo Z£Y	Koniec zadania
+3	17		NEUTRALNY	Nowe zadanie, nowa czêœæ zadania, z mo¿liwoœci¹ oddania go synowi dziadka/ ojcowi Antoniego
+3	21		Z³y		Nowe zadanie, nowa czêœæ zadania, z mo¿liwoœci¹ oddania go synowi dziadka/ ojcowi Antoniego
+3	24		Zadowolony	Koniec zadania
+3	31		Zadowolony	Koniec zadania
+3	33		Bardzo Z£Y	Nowe zadanie, nowa czêœæ zadania, z mo¿liwoœci¹ oddania go synowi dziadka/ ojcowi Antoniego
+
+4	6		Zadowolony	Koniec zadania
+4	11		Bardzo Z£Y	Koniec zadania
+4	17		NEUTRALNY	Nowe zadanie, nowa czêœæ zadania, z mo¿liwoœci¹ oddania go synowi dziadka/ ojcowi Antoniego
+4	21		Z³y		Nowe zadanie, nowa czêœæ zadania, z mo¿liwoœci¹ oddania go synowi dziadka/ ojcowi Antoniego
+4	24		Zadowolony	Koniec zadania
+
+5	6		Bardzo Z£Y	Koniec zadania
+5	12		NEUTRALNY	Koniec zadania
+5	16		Z³y		Koniec zadania
+5	22		NEUTRALNY	Koniec zadania
+
+6	6		Zadowolony	Koniec zadania
+6	11		Bardzo Z£Y	Koniec zadania
+6	17		NEUTRALNY	Koniec zadania
+6	21		Z³y		Koniec zadania
+6	24		Zadowolony	Koniec zadania

@@ -1,0 +1,382 @@
+---,NPC_ID,Conversation_ID,Line_ID,SubLine_ID,TargetLine_ID,Camera_ID,Monologue
+1,0,0,1,0,0,0,"Maciek: Ghm, mhm, nieudana kąpiel?"
+2,0,0,1,1,5,0,Tak
+3,0,0,1,2,10,0,Nie
+4,0,0,1,3,15,0,Nie twój interes
+5,0,0,1,4,0,0,Koniec
+6,0,0,2,0,0,1,O czym ty mówisz?
+7,0,0,3,0,0,0,"Maciek: No, do wody wbiegłaś, chciałaś się utopić i nie wyszło."
+8,0,0,4,0,0,0,Maciek: Po utracie przytomności fale szybko wyrzucają na brzeg.
+9,0,0,5,0,0,0,"Maciek: Wiem o tym… z doświadczenia… już kilka razy próbowałem, zawsze ten sam efekt."
+10,0,0,6,0,0,0,"Maciek: Nie ważne, czy próbujesz wieczorem, w nocy, wczesnym rankiem czy nawet w samo południe."
+11,0,0,7,0,0,1,Nie zamierzałam się zabić.
+12,0,0,8,0,0,0,Maciek: To po co wskakiwałaś do wody?
+13,0,0,9,0,1,1,Nie wskakiwałam do wody
+14,0,0,10,0,0,0,Maciek: To dlaczego jesteś cała przemoczona i leżałaś na brzegu?
+15,0,0,11,0,0,1,Nie twój interes. Kim ty w ogóle jesteś? Co to za miejsce?
+16,0,0,12,0,0,0,"Maciek: Spokojnie, nie chcesz mówić, nie mów."
+17,0,0,13,0,0,0,"Maciek: Nazywam się Maciek, a znajdujemy się na niewielkiej wyspie przystaniowej."
+18,0,0,14,0,1,0,"Maciek: Ponoć kiedyś przypływało tu wiele osób, głównie mężczyzn, którzy uciekali tu na kilka dni od swoich kobiet, żeby się nachlać, ale teraz nie znajdziesz tu nic,"
+19,0,0,15,0,0,0,"Maciek: może oprócz przerośniętych krabów, które ponoć są agresywne i niebezpieczne, "
+20,0,0,16,0,0,0,"Maciek: ale ta opowieść jest przereklamowana, siedziałem obok nich i w ogóle na mnie nie reagowały."
+21,0,0,17,0,0,1,"Rozumiem, a jak się wydostać z tej wyspy?"
+22,0,0,18,0,0,0,"Maciek: Nie wiem, nie myślałem jeszcze o tym, możesz znów rzucisz się do wody,"
+23,0,0,19,0,1,0,Maciek: i może fale wyrzucą cię w Rines.
+24,0,0,20,0,0,1,"Nie zamierzam wskakiwać do wody w nadziei, że się nie utopię. Nie ma tu jakieś łódki?"
+25,0,0,21,0,0,0,"Maciek: Łódki… mhm… widziałem jakąś na przystani. Porozmawiaj z Karczmarzem, może cię przewiezie i tak siedzi i nic nie robi."
+26,0,0,22,0,0,1,Gdzie go znajdę?
+27,0,0,23,0,0,0,"Maciek: Jest przy karczmie, jedyna chata na tej wyspie."
+28,0,0,24,0,0,1,"Potrzebuje jakiegoś suchego ubrania, zimno tu jak na dalekiej północy"
+29,0,0,25,0,0,0,"Maciek: Nie jestem żadnym kupcem, ale mam przy sobie takie coś."
+30,0,0,26,0,0,0,"Maciek: Szata jakiegoś maga nowicjusza, liczyłem, że jak wlecę w niej do wody, to namoknie, stanie się cięższe i pójdę w niej na dno."
+31,0,0,27,0,0,0,"Maciek: Ale tylko nabrzmiała jak jakaś ryba i utrzymywała mnie na falach… 2 dni tak dryfowałem, aż wyrzuciło mnie tutaj."
+32,0,0,28,0,0,1,"Dziękuję, jeśli chcesz możesz popłynąć ze mną."
+33,0,0,29,0,0,0,"Maciek: Nie trzeba, jeszcze się trochę rozejrzę na tej wyspie, może znajdę coś przydatnego, żeby zakończyć mój żywot."
+34,0,1,1,0,0,0,A może by tak skoczyć z drzewa?
+35,0,1,2,0,0,0,Po tych dwóch dniach płynąc w wodzie nie mogę się pozbyć zapachu soli…
+36,0,1,3,0,0,0,A gdyby tak sznur i kamień… tylko skąd wytrzasnę sznur… i odpowiedni kamień.
+37,0,1,4,0,0,0,"W sumie głodny jestem, zjadłbym rybę… może zadławię się ością."
+38,1,0,1,0,0,1,"Witaj, to ty jesteś karczmarzem?"
+39,1,0,2,0,0,0,"Tyle tu ludzi, że faktycznie można się pomylić, karczma zamknięta, zjeżdżaj stąd nie mam ochoty gadać…"
+40,1,0,3,0,0,1,"Chce się dostać na Rines, podobno masz łódź."
+41,1,0,4,0,0,0,"Może mam, a może nie… widzisz kiedyś wiele osób tu przypływało by zakosztować dobrego piwa i zabawić się na różne sposoby…"
+42,1,0,5,0,0,0,"Przez pewien czas furorę robiła moja pieczeń z kraba, mówię ci niebo w gębie, miałem takie tłumy,"
+43,1,0,6,0,0,0,"każdy chciał zakosztować tego arcydzieła, ale od jakiegoś czasu nikt się nie pojawia…"
+44,1,0,7,0,0,0,"ale jeszcze nadejdą dobre czasy, dla mnie i mojej karczmy, nawet jeśli nie tej i nie tutaj."
+45,1,0,8,0,0,1,Trudne jest życie karczmarza?
+46,1,0,9,0,0,0,"Moim zdaniem to nie ma tak, że dobrze albo że nie dobrze. Gdybym miał powiedzieć, co cenię w życiu najbardziej, powiedziałbym, że ludzi. Ekhm..."
+47,1,0,10,0,0,0,"Ludzi, którzy podali mi pomocną dłoń, kiedy sobie nie radziłem, kiedy byłem sam."
+48,1,0,11,0,0,0,"I co ciekawe, to właśnie przypadkowe spotkania wpływają na nasze życie."
+49,1,0,12,0,0,0,"Chodzi o to, że kiedy wyznaje się pewne wartości, nawet pozornie uniwersalne, bywa, że nie znajduje się zrozumienia,"
+50,1,0,13,0,0,0,"które by tak rzec, które pomaga się nam rozwijać. Ja miałem szczęście, by tak rzec, ponieważ je znalazłem."
+51,1,0,14,0,0,0,"I dziękuję życiu. Dziękuję mu, życie to śpiew, życie to taniec, życie to miłość."
+52,1,0,15,0,0,0,"Wielu ludzi pyta mnie o to samo, ale jak ty to robisz?, skąd czerpiesz tę radość?"
+53,1,0,16,0,0,0,"A ja odpowiadam, że to proste, to umiłowanie życia, to właśnie ono sprawia, że dzisiaj na przykład jestem karczmarzem, a jutro..."
+54,1,0,17,0,0,0,"kto wie, dlaczego by nie, oddam się pracy społecznej i będę ot, choćby sadzić... mar... marchew"
+55,1,0,18,0,0,1,"Tak… wracając, chcę dostać się na wyspę"
+56,1,0,19,0,0,0,"Każdy czegoś chce i to jest piękne, każdy powinien mieć cel w życiu, dążyć do niego, nie poddawać się."
+57,1,0,20,0,0,0,Siła i determinacja jest w stanie poprowadzić nas do realizacji naszego marzenia.
+58,1,0,21,0,0,0,"Ja chętnie pomogę ci zrealizować twoje marzenia, jeśli ty pomożesz zrealizować moje."
+59,1,0,22,0,0,0,"Widzisz, tak jak wcześniej mówiłem, robiłem przepyszną pieczeń z krabów, mięso z nich jest cudowne,"
+60,1,0,23,0,0,0,"miałem swoją małą hodowlę na plaży, ale kraby z pokolenia na pokolenie robiły się coraz większe."
+61,1,0,24,0,0,0,"Najpierw się cieszyłem, bo było więcej mięsa, ale potem urosły do takich rozmiarów,"
+62,1,0,25,0,0,0,że zaczęły stawiać opór. Jednej nocy zabiły trzech dosyć stałych bywalców…
+63,1,0,26,0,0,0,gdy reszta klientów się dowiedziała od razu zwinęła swoje tobołki i uciekła.
+64,1,0,27,0,0,0,"Szczerze nigdy nie wierzyłem w teorie Darwiniusa, a tu jednak gatunek ewolucyjnie walczy o swoje."
+65,1,0,28,0,0,1,Mam zabić kraby?
+66,1,0,29,0,0,0,"No tak, niewyraźnie mówię? Tylko musisz uważać by zbytnio nie uszkodzić kraba, bo wtedy mięso będzie do niczego."
+67,1,1,1,0,-1,0,"Ah, ta pieczeń, te mięso, ten miodowy sos, hmm… aż zgłodniałem"
+68,1,1,2,0,-1,0,"A może tak, zacząć uprawiać rzepę… tylko kto to będzie zbierał"
+69,1,1,3,0,-1,0,Śniła mi się ostatnio karczma pełna ludzi… to były piękne czasy
+70,1,1,4,0,-1,0,"Jadłeś kiedyś zmienniaki w sosie skibela? Z kibela zaczerpnięty, ha! Taki żart mi się przypomniał..."
+71,1,2,1,0,0,1,"Oto mięso, co z łodzią?"
+72,1,2,2,0,0,0,"A unosi się na wodzie, unosi"
+73,1,2,3,0,0,1,Mogę ją pożyczyć?
+74,1,2,4,0,0,0,"Pożyczyć? Oczywiście, że nie. Jak ja potem opuszczę tę wyspę? Pewnie już tu i tak nie wrócisz, jak stąd odpłyniesz."
+75,1,2,5,0,0,0,"Popłynę z tobą, tylko najpierw chciałbym zjeść pieczeń."
+76,1,2,6,0,0,0,"Ale mam mały problem, zapomniałem, że potrzebuję miodu do mojego przepysznego sosu."
+77,1,2,7,0,0,0,Sekret między innymi tkwi właśnie w świeżym miodzie. Niedaleko za górą jest mała kotlinka z kilkoma ulami.
+78,1,2,8,0,0,0,"Ale ostrożnie, uważaj na moje małe pszczółki, hoduje je dobrych wielu lat… znaczy od dwóch, ale zżyłem się z nimi."
+79,1,2,9,0,0,1,Dlaczego ty nie możesz tego zrobić?
+80,1,2,10,0,0,0,"Ja się muszę zająć mięsem, ale wierzę w ciebie, że dasz sobie radę"
+81,1,3,1,0,0,0,"Ah, ta pieczeń, te mięso, ten miodowy sos, hmm… aż zgłodniałem"
+82,1,3,2,0,0,0,"A może tak, zacząć uprawiać rzepę… tylko kto to będzie zbierał"
+83,1,3,3,0,0,0,Śniła mi się ostatnio karczma pełna ludzi… to były piękne czasy
+84,1,3,4,0,0,0,"Jadłeś kiedyś zmienniaki w sosie skibela? Z kibela zaczerpnięty, ha! Taki żart mi się przypomniał..."
+85,1,4,1,0,0,0,"O już jesteś, to dobrze."
+86,1,4,2,0,0,0,"Jak tam moje ule, mam nadzieję, że zbytnio ich nie uszkodziłeś, nie powiedziałem w sumie jak się je otwiera, "
+87,1,4,3,0,0,0,"ale to nie jest w sumie trudne, byle wioskowy głupek by sobie poradził."
+88,1,4,4,0,0,1,Ule i pszczółki mają się dobrze.
+89,1,4,5,0,0,0,"Muszę wierzyć ci na słowo… najważniejsze póki co jest to, że masz miód, "
+90,1,4,6,0,0,0,"miejmy nadzieję, że nie ostatni w tym sezonie… mhm… pyszności, normalnie delicje."
+91,1,4,7,0,0,0,"Zaproponowałbym, ale nie starczy mi na polewkę."
+92,1,4,8,0,0,0,"Przyniesiesz jeszcze drewno, bo kończą mi się zapasy, chyba przesadziłem rozpalając w piecu."
+93,1,4,9,0,0,1,Nie będę latać z siekierą po lesie…
+94,1,4,10,0,0,0,"To nie lataj, zbierz kilka gałęzi spod drzew, w gęstwinie nieopodal mrowiska,"
+95,1,4,11,0,0,0,które znajduje się przy skalnych górach nieopodal plaży jest dużo leżącego drewna. Na pewno znajdziesz.
+96,1,4,12,0,0,0,"Zachęcam także do obejrzeć mrowisko, a właściwie mrówek w nim żyjących. "
+97,1,4,13,0,0,0,"To małe inteligentne stworzonka, lubię sobie na nie popatrzeć od czasu do czasu. "
+98,1,4,14,0,0,0,"Jedna mrówka idzie za drugą, jakby oznaczały sobie drogę. "
+99,1,4,15,0,0,0," Siedzisz, patrzysz sobie i niby na początku chodzą chaotycznie,"
+100,1,4,16,0,0,0,"ale po jakimś czasie widzisz, że te małe skubane owady odnajdują najkrótszą drogę z mrowiska do pożywienia."
+101,1,4,17,0,0,1,"Niech ci będzie, ale jeśli jeszcze coś wymyślisz, spalę cię żywcem."
+102,1,4,18,0,0,0,"Spokojnie, ładna pogoda, przewietrzysz się trochę, widzę w tobie brak radości z życia. Czemu się złościsz?"
+103,1,4,19,0,0,0,"Może nie jesteś dotleniony, nie za gorąco ci w tym kapturze i masce?"
+104,1,4,20,0,0,1,Idę po drewno…
+105,1,5,1,0,0,0,"Ah, ta pieczeń, te mięso, ten miodowy sos, hmm… aż zgłodniałem"
+106,1,5,2,0,0,0,"A może tak, zacząć uprawiać rzepę… tylko kto to będzie zbierał"
+107,1,5,3,0,0,0,Śniła mi się ostatnio karczma pełna ludzi… to były piękne czasy
+108,1,5,4,0,0,0,"Jadłeś kiedyś zmienniaki w sosie skibela? Z kibela zaczerpnięty, ha! Taki żart mi się przypomniał..."
+109,1,6,1,0,0,1,Mam drewno.
+110,1,6,2,0,0,0,"I bardzo dobrze, wszystko już gotowe, teraz tylko upiec."
+111,1,6,3,0,0,0,"Mhm… pyszności, tak jak zapamiętałem, a nawet lepsze no po prostu miodzio, miód-malina, niebo w gębie, rozkosz, wyborne…"
+112,1,6,4,0,0,0,"nie, to jest przewyborne, rarytas, boski smak, doskonałe, rewelacyjne…"
+113,1,6,5,0,0,0,"nie będę taki masz, spróbuj."
+114,1,6,6,0,0,1,"Nie, dzięki, nie mam ochoty."
+115,1,6,7,0,0,0,"Nie wiesz co tracisz. Mniam mniam, pyszota, palce lizać, miód w gębie, pokarm bogów, no po prostu wyśmienite."
+116,1,6,8,0,0,0,"No dobra, zjedzone i najedzone, haha, teraz przydałaby się mała drzemka."
+117,1,6,9,0,0,1,Tracę cierpliwość...
+118,1,6,10,0,0,0,"No dobrze już, dobrze… chodź idziemy na przystań do łodzi i płyniemy."
+119,2,0,1,0,0,0,"Jesteśmy, to moja pierwsza karczma, tyle mam z nią wspomnień… do dziś pamiętam mojego pierwszego klienta."
+120,2,0,2,0,0,0,"Nie wiem czy wiesz, ale opuściłem te miejsce z powodu zgiełku. Potrzebowałem trochę ciszy i spokoju."
+121,2,0,3,0,0,0,"Karczmę na tamtej wyspie zbudowałem rok po przeprowadzeniu się tam, a i tak było to tylko kilka desek i dach."
+122,2,0,4,0,0,0,"Początkowo przypływali tam rybacy, żeby sobie zrobić przerwę w pracy, dopiero potem ludzie stąd specjalnie przemierzali taki kawał drogi,"
+123,2,0,5,0,0,0,"aby zagościć w mojej karczmie, przez co została rozbudowana to tego co widziałaś."
+124,2,0,6,0,0,0,"Ale dobrze, dość tych wspomnień. "
+125,2,0,7,0,0,0,"Zamierzam otworzyć na nowo moją starą karczmę, ludzie potrzebują miejsca gdzie będą mogli zapomnieć choć przez chwilę, o codziennych zmartwieniach."
+126,2,0,8,0,0,0,Jeśli będziesz czegoś potrzebowała możesz mnie odwiedzić i pytać śmiało.
+127,2,0,9,0,0,1,Jak się dostać do zamku?
+128,2,0,10,0,0,0,Chcesz dostać się do zamku… mhm…
+129,2,0,11,0,0,0,"Będzie ciężko, słyszałem, że zamknięto bramę przez jakąś bestie i wieśniaków, którzy zaczęli protestować."
+130,2,0,12,0,0,0,"Nie pamiętam przeciwko czemu, ale wsioki jak to wsioki coś im wpadnie w ucho, jeden drugiemu przekaże po swojemu i potem zaczynają się nieporozumienia."
+131,2,0,13,0,0,0,"Jakby tak od czasu do czasu ktoś na środku placu wygłaszał krótką przemowę,"
+132,2,0,14,0,0,0,"wiesz o co mi chodzi, takie ogłoszenia co się dzieje w okolicy i dlaczego, a nie tak wszystko z drugiej trzeciej ręki."
+133,2,0,15,0,0,0,"Ale wracając do tematu, słyszałem o tym miesiąc temu, więc może coś się zmieniło, choć na to bym nie liczył,"
+134,2,0,16,0,0,0,"żeby cokolwiek zmieniło się na lepsze zawsze trzeba długo czekać, zamknąć bramę umieją szybko a potem przez biurokracje na otwarcie jej można czekać i rok."
+135,2,0,17,0,0,1,I…?
+136,2,0,18,0,0,0,Nie mam pojęcia! Najlepiej jak porozmawiasz ze starostą tutejszej wioski Na… Natorów… Natworów… Nawrotów!
+137,2,0,19,0,0,0,Tak! Tak się nazywała jak mnie pamięć nie myli. On będzie pewnie wiedział co teraz w trawie piszczy.
+138,2,0,20,0,0,1,"Rozumiem, pogadam z nim."
+139,2,0,21,0,0,0,"Poczekaj, zanim pójdziesz, zabierz ze sobą tę paczkę, którą dał mi w porcie tutejszy przewoźnik, jest dla niejakiego Maćka, nie wiem czy go spotkałaś."
+140,2,0,22,0,0,0,"Młody smutny chłopak, może rozweseli się gdy dostanie paczkę."
+141,2,0,23,0,0,0,"Powinien się gdzieś błąkać po wiosce, może nawet w niej mieszka."
+142,2,0,24,0,0,1,"Kojarzę go, przekaże mu ją, gdy go spotkam."
+143,2,0,25,0,0,0,"Dziękuję, muszę zająć się moją karczmą. Jeśli masz jeszcze jakieś pytania nie krępuj się."
+144,2,0,25,1,26,0,Opowiedz mi coś o tej krainie.
+145,2,0,25,2,32,0,Jak się dostać do wioski?
+146,2,0,25,3,35,0,Opowiedz mi o wiosce.
+147,2,0,25,4,37,0,Co powinnam wiedzieć o Sołtysie?
+148,2,0,25,5,42,0,Potrzebuję pieniędzy.
+149,2,0,25,6,46,0,"To wszystko, dziękuję za pomoc."
+150,2,0,26,0,0,0,"Nazywa się Rines, jest to piękna kraina, choć nie mnie oceniać, bo za jej granice się nie zapuszczałem..."
+151,2,0,27,0,0,0,"Oprócz dużego lasu i wioski możesz zwiedzić starą kopalnię, piękne jezioro, w którym ryb jest niemało "
+152,2,0,28,0,0,0,"i nie mówię tu o jakiś rybach, które można trzymać w dzbanku, a o wielkich okazach, które mógłby zagościć na nie jednej uczcie wielkich magów."
+153,2,0,29,0,0,0,"Na zachodzie  znajduje się stara kopalnia soli, ale od wielu lat jest zamknięta."
+154,2,0,30,0,0,0,"Na wschodzie od wioski znajduje się cmentarz z wielką kryptą, ale nie radzę się tam zapuszczać, ponoć jest nawiedzona."
+155,2,0,31,0,25,0,"No i jest jeszcze zamek, duże miasto, byłem tam kilka razy, ale nie będę dużo opowiadać, może samej uda ci się je zwiedzić."
+156,2,0,32,0,0,0,"Udaj się tą ścieżką, zejdziesz nią do doliny aż dojesz do mostu."
+157,2,0,33,0,0,0,"W trakcie schodzenia będziesz miała widok na całą dolinę, jeśli nie masz problemów ze wzrokiem to już powinnaś dostrzec wioskę."
+158,2,0,34,0,25,0,Następnie prostą drogą przez las dojesz do wioski.
+159,2,0,35,0,0,0,"Wioska jak wioska, wszędzie pełno ludzi, każdy coś gada, pchają się i przepychają, jakby nie mogli chwilę poczekać, a niby na wsi życie płynie spokojniej…"
+160,2,0,36,0,25,0,"Nie licząc Starosty nie ma wiele osób z którymi warto by było rozmawiać, ale jak tam dotrzesz, to sama ocenisz."
+161,2,0,37,0,0,0,"Rzadko gościł w mojej karczmie, nawet gdy była ona jeszcze tutaj. Ale nawet jak przychodził to siadał sam przy oknie i pijąc pogrążał się w zadumie."
+162,2,0,38,0,0,0,"Próbowałem go kilka razy zagadać, ale nie był zbytnio rozmowny."
+163,2,0,39,0,0,0,"Jak z nim będziesz rozmawiała to mów prosto z mostu, z tego co słyszałem nie lubi jak ktoś owija w bawełnę."
+164,2,0,40,0,0,1,Rozumiem.
+165,2,0,41,0,25,0,W sumie bez problemu się dogadacie...
+166,2,0,42,0,0,0,"Nie mam przy sobie zbyt dużo monet, ale za karczmą leży moja stara skrzynia."
+167,2,0,43,0,0,0,"Jest zapieczętowana specjalną magią, aby ją otworzyć potrzebna jest prawidłowa kombinacja specjalnych znaków."
+168,2,0,44,0,0,0,Jest prosta zaczynasz od górnego znaku a potem już ruchem okrężnym zgodnie z ruchem wskazówek zegara.
+169,2,0,45,0,25,0,Znajdziesz tam parę monet i kilka może przydatnych przedmiotów.
+170,2,0,46,0,-1,0,Uważaj na siebie.
+171,3,0,1,0,0,1,Witaj.
+172,3,0,2,0,0,0,"Czego chcesz?! Nie lubię obcych w mojej wsi, zjeżdżaj stąd, zawżdy wzywam mylicje wiejską."
+173,3,0,3,0,0,1,"Spokojnie, nie zostanę tu długo, chcę się tylko dostać do miasta."
+174,3,0,4,0,0,0,"Do miasta mówisz, nie uda ci się, brama jest zawarta. Wpuszczają tylko ludzi, którzy mają glejt."
+175,3,0,5,0,0,1,A co się stało?
+176,3,0,6,0,0,0,"Z powodu zamieszek jakie ostatnio tu panują, banda chopów, jeden z drugim dostała cegłówką po łbach i wymyślili jakieś bzdury,"
+177,3,0,7,0,0,0,"kazałem ich wygnać  z naszej wioski, jeśli ty też planujesz jakieś awantury, zastanów się lepiej dwa razy."
+178,3,0,8,0,0,0,"Drugim powodem jest bestyja, co straszy od niedawna. Ludzi zabija, porządnych ludzi! "
+179,3,0,9,0,0,0,
+180,3,0,9,1,10,0,Da się jakoś ominąć strażników?
+181,3,0,9,2,31,0,Opowiedz mi o tej wiosce.
+182,3,0,9,3,34,0,Czy jest coś ciekawego w okolicy?
+183,3,0,9,4,36,0,"To wszystko, do widzenia"
+184,3,0,10,0,0,1,Aby przejść przez bramę musisz pokazać glejt strażnikom. Ale ja ci nie dam.
+185,3,0,11,0,0,0,"Jest jeszcze inna droga za mury, ale nie będę mówił o naszych ścieżkach byle pierwszej lepszej włóczędze."
+186,3,0,11,1,12,0,"Dobra, co mam zrobić?"
+187,3,0,11,2,20,0,Gadaj albo…
+188,3,0,12,0,0,0,Mądra z ciebie dziewka. Ale co ty możesz?
+189,3,0,13,0,0,1,"Całkiem dużo, nawet rzepa mi nie straszna."
+190,3,0,14,0,0,0,"Rzepa rzepą, nie ucieknie. Jest pewna sprawa, a ludzi brakuje. Ale gadać ci nie będę, boś obca."
+191,3,0,15,0,0,1,"Więc co mam zrobić, żebyś mi zaufał?"
+192,3,0,16,0,0,0,"Przekonaj do siebie miejscowych, to przekonasz i mnie."
+193,3,0,17,0,0,1,"Jak mam to zrobić, wszyscy w wiosce trzymają się ode mnie z daleka i nie spotkałam nikogo, kto chciałby ze mną rozmawiać."
+194,3,0,18,0,0,0,"To nie jest przeszkoda, powiedz, że ja cię przysyłam, zacznij od Antoniego."
+195,3,0,19,0,37,1,"Dobrze, zobaczę co da się zrobić."
+196,3,0,20,0,0,0,"A bo co? Spróbuj tylko podnieść na mnie rękę, a mylicja bez wahania spoli cie na stosie za te czory."
+197,3,0,21,0,0,0,"Przysługa za przysługę, tak to tu jest."
+198,3,0,22,0,0,1,"Dobra, co mam zrobić?"
+199,3,0,23,0,0,0,Mądra z ciebie dziewka. Ale co ty możesz?
+200,3,0,24,0,0,1,"Całkiem dużo, nawet rzepa mi nie straszna."
+201,3,0,25,0,0,0,"Rzepa, rzepą, ale nie ucieknie. Jest pewna sprawa, a ludzi brakuje. Ale gadać ci nie będę, boś obca."
+202,3,0,26,0,0,1,"Więc co mam zrobić, żebyś mi zaufał?"
+203,3,0,27,0,0,0,"Przekonaj do siebie miejscowych, to przekonasz i mnie."
+204,3,0,28,0,0,1,"Jak mam to zrobić, wszyscy w wiosce trzymają się ode mnie z daleka i nie spotkałam nikogo, kto chciałby ze mną rozmawiać."
+205,3,0,29,0,0,0,"Powiedziałbym radź sobie sama, ale zaznaj mojej łaski. Przekonaj do siebie miejscowych, to przekonasz i mnie."
+206,3,0,30,0,37,1,"Dobrze, zobaczę co da się zrobić."
+207,3,0,31,0,0,0,"Zwana jest wioską Nawrotów. Wiela nas tu nie ma, a i wioska nie ogromna i bogata, ale radzim sobie."
+208,3,0,32,0,0,0,Klucz to dyscyplina i nie zadawanie się z każdo nowo przybyłym włóczęgom.
+209,3,0,33,0,9,0,"Raz tu przyloz taki co chopą mówił, że magia Nasza zła, a te debile uwierzyły! To żem psami poszczuł. "
+210,3,0,34,0,0,0,"Maryna mieszka z boku, ale pewno nie o to ci chodziło. Jest jezioro, las, łąki, pola i Maryna."
+211,3,0,35,0,9,0,"Stara kopalnia, jest już zamknięta z dziesięć lat. Cmentarz z kryptą, gdzie leży parę znanych, zimnych i szanownych ludzi z okolicy."
+212,3,0,36,0,-1,0,Żegnam.
+213,3,0,37,0,0,0,
+214,3,0,37,1,1,,I co mówią o mnie ludzie w wiosce?
+215,3,0,37,2,1,,Opowiedz mi o tej wiosce.
+216,3,0,37,3,1,,Czy jest coś ciekawego w okolicy?
+217,3,0,37,4,-1,,"To wszystko, do widzenia"
+218,3,1,1,0,0,0,Cześć i chwała Si’diredowi. Czego chcesz?
+219,3,1,1,1,1,,I co mówią o mnie ludzie w wiosce?
+220,3,1,1,2,1,,Opowiedz mi o tej wiosce.
+221,3,1,1,3,1,,Czy jest coś ciekawego w okolicy?
+222,3,1,1,4,-1,,"To wszystko, do widzenia"
+223,,,,,,,
+224,,,,,,,
+225,,,,,,,
+226,,,,,,,
+227,,,,,,,
+228,,,,,,,
+229,,,,,,,
+230,,,,,,,
+231,,,,,,,
+232,,,,,,,
+233,,,,,,,
+234,,,,,,,
+235,,,,,,,
+236,,,,,,,
+237,,,,,,,
+238,,,,,,,
+239,,,,,,,
+240,,,,,,,
+241,,,,,,,
+242,,,,,,,
+243,,,,,,,
+244,,,,,,,
+245,,,,,,,
+246,,,,,,,
+247,,,,,,,
+248,,,,,,,
+249,,,,,,,
+250,,,,,,,
+251,,,,,,,
+252,,,,,,,
+253,,,,,,,
+254,,,,,,,
+255,,,,,,,
+256,,,,,,,
+257,,,,,,,
+258,,,,,,,
+259,,,,,,,
+260,,,,,,,
+261,,,,,,,
+262,,,,,,,
+263,,,,,,,
+264,,,,,,,
+265,,,,,,,
+266,,,,,,,
+267,,,,,,,
+268,,,,,,,
+269,,,,,,,
+270,,,,,,,
+271,,,,,,,
+272,,,,,,,
+273,,,,,,,
+274,,,,,,,
+275,,,,,,,
+276,,,,,,,
+277,,,,,,,
+278,,,,,,,
+279,,,,,,,
+280,,,,,,,
+281,,,,,,,
+282,,,,,,,
+283,,,,,,,
+284,,,,,,,
+285,,,,,,,
+286,,,,,,,
+287,,,,,,,
+288,,,,,,,
+289,,,,,,,
+290,,,,,,,
+291,,,,,,,
+292,,,,,,,
+293,,,,,,,
+294,,,,,,,
+295,,,,,,,
+296,,,,,,,
+297,,,,,,,
+298,,,,,,,
+299,,,,,,,
+300,,,,,,,
+301,,,,,,,
+302,,,,,,,
+303,,,,,,,
+304,,,,,,,
+305,,,,,,,
+306,,,,,,,
+307,,,,,,,
+308,,,,,,,
+309,,,,,,,
+310,,,,,,,
+311,,,,,,,
+312,,,,,,,
+313,,,,,,,
+314,,,,,,,
+315,,,,,,,
+316,,,,,,,
+317,,,,,,,
+318,,,,,,,
+319,,,,,,,
+320,,,,,,,
+321,,,,,,,
+322,,,,,,,
+323,,,,,,,
+324,,,,,,,
+325,,,,,,,
+326,,,,,,,
+327,,,,,,,
+328,,,,,,,
+329,,,,,,,
+330,,,,,,,
+331,,,,,,,
+332,,,,,,,
+333,,,,,,,
+334,,,,,,,
+335,,,,,,,
+336,,,,,,,
+337,,,,,,,
+338,,,,,,,
+339,,,,,,,
+340,,,,,,,
+341,,,,,,,
+342,,,,,,,
+343,,,,,,,
+344,,,,,,,
+345,,,,,,,
+346,,,,,,,
+347,,,,,,,
+348,,,,,,,
+349,,,,,,,
+350,,,,,,,
+351,,,,,,,
+352,,,,,,,
+353,,,,,,,
+354,,,,,,,
+355,,,,,,,
+356,,,,,,,
+357,,,,,,,
+358,,,,,,,
+359,,,,,,,
+360,,,,,,,
+361,,,,,,,
+362,,,,,,,
+363,,,,,,,
+364,,,,,,,
+365,,,,,,,
+366,,,,,,,
+367,,,,,,,
+368,,,,,,,
+369,,,,,,,
+370,,,,,,,
+371,,,,,,,
+372,,,,,,,
+373,,,,,,,
+374,,,,,,,
+375,,,,,,,
+376,,,,,,,
+377,,,,,,,
+378,,,,,,,
+379,,,,,,,
+380,,,,,,,
+381,,,,,,,

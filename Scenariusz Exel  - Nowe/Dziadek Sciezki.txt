@@ -1,0 +1,17 @@
+0	15	Duch znika, a wraz z nim pierœcieñ (nie mo¿emy go znaleŸæ)					MO¯LIWOŒÆ 1
+0	18	Otrzymujemy pierœcieñ, a duch znika								MO¯LIWOŒÆ 2
+0	22	Otrzymujemy pierœcieñ, a duch znika								MO¯LIWOŒÆ 3
+0	24	Pierœcienia nie mo¿emy znaleŸæ po walce.							MO¯LIWOŒÆ 4
+0	31	Otrzymujemy pierœcieñ, a duch znika								MO¯LIWOŒÆ 5
+0	35	I koñcz¹c te s³owa dziadek znika, a my nie mo¿emy zabraæ sygnetu				MO¯LIWOŒÆ 4
+0	41	Duch znika, a wraz z nim pierœcieñ (nie mo¿emy go znaleŸæ)					MO¯LIWOŒÆ 1
+0	44	Otrzymujemy pierœcieñ, a duch znika								MO¯LIWOŒÆ 2
+0	46	Duch znika, a wraz z nim pierœcieñ (nie mo¿emy go znaleŸæ)					MO¯LIWOŒÆ 4
+0	48	Pierœcienia nie mo¿emy znaleŸæ po walce.							MO¯LIWOŒÆ 4
+0	50	Rozpoczyna siê walka z dziadkiem/hord¹ szkieletów. Pierœcienia nie mo¿emy znaleŸæ po walce	MO¯LIWOŒÆ 4
+
+
+
+
+
+

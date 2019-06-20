@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\UnrealBuildTool.exe" -projectfiles -project="C:\Rines\Projekt_2_Rok\Projekt_2_Rok.uproject" -game -engine -2017
