@@ -21,3 +21,29 @@ Zadania:
 8 - Zielarka
 9 - Myśliwy
 0 - Rolnik
+
+
+Rolnik, Zielarka, Myśliwy:
+1. Pierwsze kliknięcie pozwala na rozmowę bez pójścia do Sołtysa
+2. Drugie po rozmowie na pojawieniu się w ekwipunku potrzebnych rzeczy do oddania
+
+Karczmarz
+1. Pierwsze kliknięcie dodaje mięso do wykonania zadania (jeśli to zadanie jest aktualne)
+2. Drugie kliknięcie dodaje miód do wykonania zadania (jeśli to zadanie jest aktualne)
+3. Trzecie kliknięcie dodaje drewno do wykonania zadania (jeśli to zadanie jest aktualne)
+
+Antoni 
+1. Pierwsze kliknięcie pozwala na rozmowę bez pójścia do Sołtysa
+2. Drugie kliknięcie pozwala na pominięcie rozmowy i zebraniu od razu zdania bez rozmowy
+3. Trzecie kliknięcie pozwala na rozmowę z Antonim (możliwość z oddaniem pierścienia)
+
+Maciek
+1. Pierwsze kliknięcie (i jedyne) pozwala na możliwość rozmowy z Mackiem i oddania paczki bez rozmowy z Karczmarzem
+
+Sołtys
+1. Pierwsze kliknięcie pozwala ominąć pierwszy dialog i wykonywać zadania od wioski
+2. Drugie kliknięcie  pozwala ominąć zadania (wszystkie są uznane za wykonane) 
+3. Trzecie kliknięcie pozwala ominąć rozmowę po wykonaniu wszystkich zadań
+4. Czwarte kliknięcie pozwala dostać zadanie na potwora z kopalni
+5. Piąte  kliknięcie pozwala na szybkie „zabicie” potwora i otrzymanie listu
+6. Pozwala pominąć rozmowę po wykonaniu zadania i zakończyć zadanie
