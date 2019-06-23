@@ -12,3 +12,12 @@ Num 7 - Ustwa pogodę na słoneczną (nie działa w Intrze)
 Num 8 - Ustwa pogodę na deszczową (nie działa w Intrze)
 
 Num 9 - Wyłącza cheaty i ustawia slomo 1
+
+Zadania:
+
+5 - Intro karczmarz/ lvl1 sołtys
+6 - Maciek zatrute drzewo
+7 - Antoni krypta
+8 - Zielarka
+9 - Myśliwy
+0 - Rolnik
