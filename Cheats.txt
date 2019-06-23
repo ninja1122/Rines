@@ -3,12 +3,12 @@ Num 1, Num 2, Num 3
 
 Num 0 - Przełączenie otrzymywania obrażeń
 
-Num 1 - Dodaj czas do pory dnia	(nie działa w Intrze)
-Num 2 - Odejmij czas do pory dnia (nie działa w Intrze)
+Num 1 - slomo -1 (min 1)
+Num 2 - slomo +1 (max 25)
 
 Num 4 - Dodaj poziom
 
 Num 7 - Ustwa pogodę na słoneczną (nie działa w Intrze)
 Num 8 - Ustwa pogodę na deszczową (nie działa w Intrze)
 
-Num 9 - Wyłącza cheaty
+Num 9 - Wyłącza cheaty i ustawia slomo 1
