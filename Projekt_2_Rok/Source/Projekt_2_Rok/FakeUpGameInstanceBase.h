@@ -83,6 +83,9 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Audio)
 	bool AmbientWater;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Audio)
+	bool AmbientOcean;
+
 	UFUNCTION(BlueprintCallable)
 	void Reset();
 };

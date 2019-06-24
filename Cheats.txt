@@ -7,6 +7,7 @@ Num 1 - slomo -1 (min 1)
 Num 2 - slomo +1 (max 25)
 
 Num 4 - Dodaj poziom
+Num 5 - Dodaje przedmioty i spele
 
 Num 7 - Ustwa pogodę na słoneczną (nie działa w Intrze)
 Num 8 - Ustwa pogodę na deszczową (nie działa w Intrze)

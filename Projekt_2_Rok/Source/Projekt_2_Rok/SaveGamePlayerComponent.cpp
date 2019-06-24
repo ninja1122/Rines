@@ -71,6 +71,7 @@ void USaveGamePlayerComponent::SaveGame(FString SaveName)
 
 	SaveGameInstance->SaveAmbientForest = GameInstance->AmbientForest;
 	SaveGameInstance->SaveAmbientWater = GameInstance->AmbientWater;
+	SaveGameInstance->SaveAmbientOcean = GameInstance->AmbientOcean;
 
 	for (TActorIterator<APickupableActor> ActorItr(GetWorld()); ActorItr; ++ActorItr)
 	{
@@ -223,6 +224,7 @@ void USaveGamePlayerComponent::LoadGame(FString SaveName)
 
 	GameInstance->AmbientForest = SaveGameInstance->SaveAmbientForest;
 	GameInstance->AmbientWater = SaveGameInstance->SaveAmbientWater;
+	GameInstance->AmbientOcean = SaveGameInstance->SaveAmbientOcean;
 	OnAmbientDelegate.Broadcast(SaveName);
 
 	PlayerInventoryInstance->ClearInventory();
@@ -324,12 +326,15 @@ void USaveGamePlayerComponent::LoadGame(FString SaveName)
 
 				APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveWorldActorQuantity[i]);
 
-				InventoryItem->GoldVal = SaveGameInstance->SaveWorldActorGold[i];
-				InventoryItem->Quantity = SaveGameInstance->SaveWorldActorQuantity[i];
+				if (InventoryItem)
+				{
+					InventoryItem->GoldVal = SaveGameInstance->SaveWorldActorGold[i];
+					InventoryItem->Quantity = SaveGameInstance->SaveWorldActorQuantity[i];
 
-				InventoryItem->SetHidden(SaveGameInstance->SaveWorldActorVisibility[i]);
+					InventoryItem->SetHidden(SaveGameInstance->SaveWorldActorVisibility[i]);
 
-				InventoryItem->SetActorTransform(SaveGameInstance->SaveWorldActorTransform[i]);
+					InventoryItem->SetActorTransform(SaveGameInstance->SaveWorldActorTransform[i]);
+				}	
 			}
 		}
 	}

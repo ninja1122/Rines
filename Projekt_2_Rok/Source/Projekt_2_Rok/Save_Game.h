@@ -77,7 +77,6 @@ public:
 	UPROPERTY(EditAnywhere)
 	TArray<bool> SaveWorldNPCMysliwy;
 
-
 	UPROPERTY(EditAnywhere)
 	TArray<bool> SaveCzyJestPytajnik;
 
@@ -155,4 +154,7 @@ public:
 
 	UPROPERTY(EditAnywhere)
 	bool SaveAmbientWater;
+
+	UPROPERTY(EditAnywhere)
+	bool SaveAmbientOcean;
 };
