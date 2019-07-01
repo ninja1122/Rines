@@ -357,13 +357,16 @@ void USaveGamePlayerComponent::LoadGame(FString SaveName)
 
 			APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveInventoryItemsQuantity[i]);
 
-			InventoryItem->GoldVal = 0;
+			if (InventoryItem)
+			{
+				InventoryItem->GoldVal = 0;
 
-			InventoryItem->Quantity = SaveGameInstance->SaveInventoryItemsQuantity[i];
+				InventoryItem->Quantity = SaveGameInstance->SaveInventoryItemsQuantity[i];
 
-			PlayerInventoryInstance->AddToInventory(InventoryItem);
+				PlayerInventoryInstance->AddToInventory(InventoryItem);
 
-			InventoryItem->SetActorHiddenInGame(true);
+				InventoryItem->SetActorHiddenInGame(true);
+			}	
 		}
 	}
 	
@@ -400,12 +403,15 @@ void USaveGamePlayerComponent::LoadGame(FString SaveName)
 
 					APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveWorldActorQuantity[i]);
 
-					InventoryItem->GoldVal = SaveGameInstance->SaveContainerItemsGold[i];
-					InventoryItem->Quantity = SaveGameInstance->SaveContainerItemsQuantity[i];
+					if (InventoryItem)
+					{
+						InventoryItem->GoldVal = SaveGameInstance->SaveContainerItemsGold[i];
+						InventoryItem->Quantity = SaveGameInstance->SaveContainerItemsQuantity[i];
 
-					InventoryItem->SetHidden(true);
+						InventoryItem->SetHidden(true);
 
-					Container->content.Add(InventoryItem);
+						Container->content.Add(InventoryItem);
+					}	
 				}
 			}
 
@@ -446,14 +452,17 @@ void USaveGamePlayerComponent::LoadGame(FString SaveName)
 
 					APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveWorldActorQuantity[i]);
 
-					InventoryItem->GoldVal = SaveGameInstance->SaveContainerLockedItemsGold[i];
-					InventoryItem->Quantity = SaveGameInstance->SaveContainerLockedItemsQuantity[i];
+					if (InventoryItem)
+					{
+						InventoryItem->GoldVal = SaveGameInstance->SaveContainerLockedItemsGold[i];
+						InventoryItem->Quantity = SaveGameInstance->SaveContainerLockedItemsQuantity[i];
 
-					InventoryItem->SetHidden(true);
+						InventoryItem->SetHidden(true);
 
-					Container->content.Add(InventoryItem);
+						Container->content.Add(InventoryItem);
 
-					Container->CzySkrzyniaOtworzona = SaveGameInstance->SaveContainerLockedIsOpen[i];
+						Container->CzySkrzyniaOtworzona = SaveGameInstance->SaveContainerLockedIsOpen[i];
+					}
 				}
 			}
 
@@ -630,12 +639,15 @@ void USaveGamePlayerComponent::LoadLocation(FString SaveName)
 
 			APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveWorldActorQuantity[i]);
 
-			InventoryItem->GoldVal = SaveGameInstance->SaveWorldActorGold[i];
-			InventoryItem->Quantity = SaveGameInstance->SaveWorldActorQuantity[i];
+			if (InventoryItem)
+			{
+				InventoryItem->GoldVal = SaveGameInstance->SaveWorldActorGold[i];
+				InventoryItem->Quantity = SaveGameInstance->SaveWorldActorQuantity[i];
 
-			InventoryItem->SetHidden(SaveGameInstance->SaveWorldActorVisibility[i]);
+				InventoryItem->SetHidden(SaveGameInstance->SaveWorldActorVisibility[i]);
 
-			InventoryItem->SetActorTransform(SaveGameInstance->SaveWorldActorTransform[i]);
+				InventoryItem->SetActorTransform(SaveGameInstance->SaveWorldActorTransform[i]);
+			}		
 		}
 	}
 
@@ -695,12 +707,15 @@ void USaveGamePlayerComponent::LoadLocation(FString SaveName)
 
 				APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveWorldActorQuantity[i]);
 
-				InventoryItem->GoldVal = SaveGameInstance->SaveContainerItemsGold[i];
-				InventoryItem->Quantity = SaveGameInstance->SaveContainerItemsQuantity[i];
+				if (InventoryItem)
+				{
+					InventoryItem->GoldVal = SaveGameInstance->SaveContainerItemsGold[i];
+					InventoryItem->Quantity = SaveGameInstance->SaveContainerItemsQuantity[i];
 
-				InventoryItem->SetHidden(true);
+					InventoryItem->SetHidden(true);
 
-				Container->content.Add(InventoryItem);
+					Container->content.Add(InventoryItem);
+				}
 			}
 		}
 
@@ -738,14 +753,17 @@ void USaveGamePlayerComponent::LoadLocation(FString SaveName)
 
 				APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveWorldActorQuantity[i]);
 
-				InventoryItem->GoldVal = SaveGameInstance->SaveContainerLockedItemsGold[i];
-				InventoryItem->Quantity = SaveGameInstance->SaveContainerLockedItemsQuantity[i];
+				if (InventoryItem)
+				{
+					InventoryItem->GoldVal = SaveGameInstance->SaveContainerLockedItemsGold[i];
+					InventoryItem->Quantity = SaveGameInstance->SaveContainerLockedItemsQuantity[i];
 
-				InventoryItem->SetHidden(true);
+					InventoryItem->SetHidden(true);
 
-				Container->content.Add(InventoryItem);
+					Container->content.Add(InventoryItem);
 
-				Container->CzySkrzyniaOtworzona = SaveGameInstance->SaveContainerLockedIsOpen[i];
+					Container->CzySkrzyniaOtworzona = SaveGameInstance->SaveContainerLockedIsOpen[i];
+				}		
 			}
 		}
 
@@ -829,13 +847,16 @@ void USaveGamePlayerComponent::LoadPlayer(FString SaveName)
 
 		APickupableActor* InventoryItem = Player->SpawnActor(actorpath, rotator, spawnLocation, SaveGameInstance->SaveInventoryItemsQuantity[i]);
 
-		InventoryItem->GoldVal = 0;
+		if (InventoryItem)
+		{
+			InventoryItem->GoldVal = 0;
 
-		InventoryItem->Quantity = SaveGameInstance->SaveInventoryItemsQuantity[i];
+			InventoryItem->Quantity = SaveGameInstance->SaveInventoryItemsQuantity[i];
 
-		PlayerInventoryInstance->AddToInventory(InventoryItem);
+			PlayerInventoryInstance->AddToInventory(InventoryItem);
 
-		InventoryItem->SetActorHiddenInGame(true);
+			InventoryItem->SetActorHiddenInGame(true);
+		}
 	}
 }
 
